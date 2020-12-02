@@ -10,7 +10,6 @@
 #' @examples
 #' area_of_a_circle(2)
 #' \dontrun{area_of_a_circle(2)}
-#'
 area_of_a_circle <- function(r) {
   return(pi * r^2)
 }
