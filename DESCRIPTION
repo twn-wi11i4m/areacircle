@@ -1,0 +1,11 @@
+Package: areacircle
+Type: Package
+Title: Calculate the Area of a Circle 
+Version: 0.1
+Author: William Ng <Williamntw.Website@gmail.com>
+Maintainer: William Ng <Williamntw.Website@gmail.com>
+Description: Given a certain radius of the circle, the function in this package return the area of the circle.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
